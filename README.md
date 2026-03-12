@@ -17,9 +17,10 @@ ZCoder is a comprehensive platform designed to facilitate collaborative learning
 
 ## Features
 
- ### Login Page
- - **Enhanced Security:**  Our website exclusively supports logins through Google Authentication, ensuring a secure and streamlined login experience for our users.
- - **New Account on first time Login:** Once you login after google authentication your profile is automatically created however you still need to fill in the necessary details in the user profile section.
+### Login Page
+
+- **Enhanced Security:** Our website exclusively supports logins through Google Authentication, ensuring a secure and streamlined login experience for our users.
+- **New Account on first time Login:** Once you login after google authentication your profile is automatically created however you still need to fill in the necessary details in the user profile section.
 
 ### User Profiles
 
@@ -30,7 +31,7 @@ ZCoder is a comprehensive platform designed to facilitate collaborative learning
 
 ### Collaborative Learning
 
-- **Study Groups:** Users can join  study groups based on specific topics or programming languages.
+- **Study Groups:** Users can join study groups based on specific topics or programming languages.
 - **Learning Resources:** A collection of tutorials, articles, and videos(links) shared by the community.
 
 ### Chat
@@ -59,7 +60,8 @@ To install and run ZCoder locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aaditya-jalan/zcoder.git
+   git clone https://github.com/lav24fr/ZCoder.git
+   ```
 2. Navigate to the project directory and download the necessary dependencies:(copy-paste the following code into the terminal)
    ```bash
    cd Zcoder
@@ -75,10 +77,10 @@ To install and run ZCoder locally, follow these steps:
    cd my-app
    npm i
    npm start
+   ```
 
 After this the app should start in your device (if you are facing any issues/bugs please raise them in the issues section).
 
 ## Usage
 
 Once the server is running, open your browser and navigate to http://localhost:3000 to start using ZCoder. You can create an account by directly signing up with google, set up your profile, join collaborative learning groups, chat with other users, participate in problem-solving discussions, and check the contest calendar.
-
